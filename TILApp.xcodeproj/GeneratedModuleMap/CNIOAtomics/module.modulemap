@@ -1,0 +1,4 @@
+module CNIOAtomics {
+    umbrella "/Users/hernancastellanospalencia/Desktop/Server_Side_Swift_with_Vapor_v1.0.1/06-configuring-database/final/TILApp/.build/checkouts/swift-nio.git--8595795401766522269/Sources/CNIOAtomics/include"
+    export *
+}
